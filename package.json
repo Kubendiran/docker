@@ -1,0 +1,19 @@
+{
+  "name": "docker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kubendiran/docker.git"
+  },
+  "author": "kubendiran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kubendiran/docker/issues"
+  },
+  "homepage": "https://github.com/Kubendiran/docker#readme"
+}
